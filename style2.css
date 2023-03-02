@@ -1,0 +1,274 @@
+@media screen and (max-width: 500px) {
+    .letgo {    
+        width: 400px;    
+        font-family: sans-serif;
+        font-size: 13px;
+        font-weight: bold;
+        display: inline;
+        text-decoration: none; 
+        padding-left: 12px;
+        background-color: rgb(247, 246, 244);
+    }
+    .letgo2 {   
+        width: 550px;    
+        display: flex; 
+        padding-left: 8px; 
+        padding-top: 23px; 
+    }
+    
+    
+    .betgo {
+        border: 2px solid none;    
+        width: 400px; 
+        height: 74px;   
+        font-family: sans-serif;
+        font-size: 13px;
+        font-weight: bold;
+        display: inline;
+        text-decoration: none; 
+        padding-left: 2px; 
+        background-color: rgb(236, 232, 217);       
+    }
+
+    .betgo1 {
+        border: 2px solid none;
+        width: 450px;
+        height: 74px;
+        display: flex;
+        font-size: 15px;
+        margin-left: 3px;
+    }
+
+    .catgo {
+        border: 2px solid rgb(236, 232, 217);    
+        width: 400px; 
+        height: 150px;
+        background-color: rgb(236, 232, 217);    
+        display: inline;    
+    }
+    .catgo1 {
+        border: 2px solid none;    
+        width: 450px; 
+        height: 230px;   
+        font-family: sans-serif;  
+        padding-left: 2px; 
+        padding-top: 5px;
+    }
+
+     input {
+     border: 2px solid rgb(255, 255, 255);
+     background-color: rgb(255, 255, 255);
+     width: 300px;     
+     font-family: sans-serif;
+     font-size: 15.7px;
+     color: rgb(191, 184, 196); 
+     padding-left: 2px;   
+     padding-top: 15px;   
+    }
+
+    .catgo2 {
+        border: 2px solid none;    
+        width: 600px; 
+        height: 500px;   
+        font-family: sans-serif; 
+        padding-top: 60px; 
+        padding-left: 3px; 
+    }
+
+    .datgo {
+        border: 2px solid none;    
+        width: 400px; 
+        height: 6300px;
+        background-color: rgb(255, 255, 255); 
+        padding-left: 50px;   
+    }
+
+    .datgo1 {
+        border: 2px solid none;    
+        width: 400px; 
+        height: 1000px;
+        display: inline;
+        justify-content: space-between;
+        padding-right: 50px;
+        padding-left: 10px;       
+    }
+
+    .datgo2 {
+        border: 2px solid none; 
+        background-color: rgb(255, 255, 255);   
+        width:  400px; 
+        height: 1460px;
+        padding-left: 90px;
+        padding-top: 10px;
+        display: inline;
+        flex-flow: row wrap;
+        gap: 60px;
+    }
+
+    #datgo1a {
+        border: 2px solid none;    
+        width: 250px;
+        height: 40px;
+        font-size: 20px;
+        padding-top: 2px; 
+        color: rgb(56, 74, 98);   
+    }
+
+    .Zdatgo2 {
+        border: 2px solid none; 
+        background-color: rgb(255, 255, 255);    
+        width:  1400px; 
+        height: 480px;
+        padding-left: 90px;
+        padding-top: 10px;
+        display: inline;
+        flex-flow: row wrap;
+        gap: 30px;
+    }
+    .sec {
+        border: 2px solid none;
+        background-color: rgb(255, 255, 255);
+        width: 400px;
+        height: 410px;
+        padding-top: 50px;
+        padding-left: 5px;
+    }
+    
+    .secgo {
+        border: 2px solid none;
+        background-color: rgb(255, 255, 255);
+        width: 400px;
+        height: 300px;
+    }
+    
+    #secgo1 {
+    font-size: 27px;
+    font-family: sans-serif;  
+    color: rgb(56, 74, 98)
+    }
+    
+    #secgo1a {
+        font-size: 22px;
+        font-family: sans-serif;
+        line-height: 30px;      
+        color: rgb(56, 74, 98);
+    }  
+
+    .hig{
+        border: 2px solid none;
+        background-color: rgb(237, 246, 253);
+        width: 410px;
+        height: 800px;
+        padding-top: 57px;
+        padding-left: 10px;
+    }
+
+    .hig1 {
+        border: 2px solid none;
+        background-color: rgb(237, 246, 253);
+        width: 400px;
+        height: 110px;
+    }
+
+    .hig2 {
+        border: 2px solid none;
+        background-color: rgb(237, 246, 253);
+        width: 400px;
+        height: 255px;
+        display: inline;
+        flex-flow: row wrap;
+        gap: 28px;
+    }
+
+    .jeg {
+        border: 2px solid none;
+        background-color: rgb(255, 255, 255);
+        width: 400px;
+        height: 600px;
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+    
+    .jeg1 {
+        border: 2px solid none;
+        background-color: rgb(255, 255, 255);
+        width: 400px;
+        height: 40px;    
+    }
+
+    .jeg2 {
+        border: 2px solid none;
+        background-color: rgb(255, 255, 255);
+        width: 1200px;
+        height: 230px;
+        display: inline;
+        flex-flow: row wrap;
+        gap: 28px;
+    }
+    
+    #jeg2a {
+        border: 2px solid none;
+        background-color: rgb(255, 255, 255);
+        width: 367px;
+        height: 190px;
+        display: flex;
+        flex-flow: row wrap;
+        padding-left: 10px;
+        padding-top: 15px;
+    }
+
+    .fet2 {
+        border: 2px solid none;
+        background-color: rgb(247, 246, 244);
+        width: 400px;
+        height: 300px;
+        display: inline;  
+        flex-flow: row wrap;
+        gap: 60px;    
+    }
+
+    .fet {
+        border: 2px solid none;
+        background-color: rgb(247, 246, 244);
+        width: 410px;
+        height: 600px;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    
+    .fet1 {
+        border: 2px solid none;
+        background-color: rgb(247, 246, 244);
+        width: 420px;
+        height: 100px;        
+    }
+
+    .vet{
+        border: 2px solid none;
+        background-color: rgb(56, 74, 98);
+        width: 420px;
+        height: 1400px;
+        display: flex;  
+        flex-flow: row wrap;
+        gap: 3px; 
+        padding-top: 65px;
+        padding-left: 95px;   
+    }
+
+    .zoo {
+        border: 2px solid none;
+        background-color: rgb(203, 202, 200);
+        width: 420px;
+        height: 90px;
+        color: rgb(56, 74, 98);
+        font-family: sans-serif;
+        font-size: 16px;
+        text-align: none;
+        padding-top: 35px;
+    }
+
+    .obete {
+        width: 410px;
+    }  
+       
+}

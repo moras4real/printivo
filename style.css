@@ -1,0 +1,623 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+    overflow-x: hidden;   
+}
+a {
+    text-decoration: none;
+    color: rgb(85, 102, 131);
+}
+.letgo {    
+    width: 1600px;    
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    display: flex;
+    text-decoration: none; 
+    padding-left: 100px;
+    background-color: rgb(247, 246, 244);    
+}
+
+.letgo1 {   
+    width: 450px;    
+    display: flex;    
+}
+
+#letgoa {   
+    width: 355px;    
+    padding-top: 23px;     
+}
+
+#letgob {   
+    width: 325px;    
+    padding-top: 23px;    
+}
+
+#letgoc {    
+    width: 300px;   
+    padding-top: 23px;    
+}
+
+#letgod {
+    color: rgb(85, 102, 131); 
+}
+
+#letgoe {
+    color: rgb(29, 161, 242);
+}
+
+#letgoe:hover {
+    cursor: pointer;
+}
+
+.letgo2 {   
+    width: 550px;    
+    display: flex; 
+    padding-left: 200px; 
+    padding-top: 23px; 
+}
+
+.letgo3 {    
+    width: 200px;    
+    display: flex;
+    padding-top: 10px;    
+}
+
+.letgo3, .letgo2, #letgoc, #letgob, #letgoa, .letgo1, .letgo {
+    border: 2px solid none;
+    height: 68px;
+}
+
+/* section two */
+
+/* .bet {
+        
+} */
+
+.betgo {
+    border: 2px solid none;    
+    width: 1600px; 
+    height: 74px;   
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    display: flex;
+    text-decoration: none; 
+    padding-left: 100px; 
+    background-color: rgb(236, 232, 217);       
+}
+
+#betgoa {
+    border: 2px solid none; 
+    width: 325;
+    height: 74px;
+    padding-top: 8px;
+   
+}
+
+h3 {
+    font-size: 45px;    
+    color: black; 
+    
+}
+
+.betgo1 {
+    border: 2px solid none;
+    width: 490px;
+    height: 74px;
+    display: flex;
+    font-size: 15px;
+    margin-left: 270px;
+}
+
+#betgo1a {
+    border: 2px solid none;
+    width: 70px;
+    height: 74px;
+    padding-top: 23px;
+}
+
+#betgo1b {
+    border: 2px solid none;
+    width: 120px;
+    height: 74px;
+    padding-top: 23px;
+}
+
+#betgo1c {
+    border: 2px solid none;
+    width: 165px;
+    height: 74px;
+    padding-top: 23px;
+}
+
+#betgo1d {
+    border: 2px solid none;
+    width: 180px;
+    height: 74px;
+    padding-top: 23px;
+}
+
+.betgo2 {
+    border: 2px solid none;
+    width: 280px;
+    height: 74px;
+    display: flex;
+    font-size: 15px;
+    
+}
+
+#betgo2a {
+    border: 2px solid none;
+    width: 75px;
+    height: 74px;
+    color: rgb(217, 132, 134);
+    padding-top: 23px;
+}
+
+#betgo2a:hover {
+    cursor: pointer;
+}
+
+#betgo2b {
+    border: 2px solid none;
+    width: 150px;
+    height: 74px;  
+    padding-top: 23px;      
+}
+
+.obete {
+    width: 1200px;
+}
+
+#betgo2c {
+    padding-top: 21px;
+}
+
+/* section three */
+
+.catgo {
+    border: 2px solid rgb(236, 232, 217);    
+    width: 1600px; 
+    height: 400px;
+    background-color: rgb(236, 232, 217);    
+    display: flex;    
+}
+
+.catgo1 {
+    border: 2px solid none;    
+    width: 750px; 
+    height: 500px;   
+    font-family: sans-serif;  
+    padding-left: 90px; 
+    padding-top: 65px;
+}
+
+#catgoa {
+    font-size: 62px;
+    color: rgb(56, 74, 98);
+    font-weight: 700    
+}
+
+#catgob {
+    font-size: 27px;
+    color: rgb(112, 128, 149);       
+}
+
+#catgoc {
+    font-size: 16.5px;
+    color: rgb(56, 74, 98);    
+    font-weight: bold;   
+}
+
+.catgod {
+    display: flex;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    width: 630px;
+    height: 85px;    
+}
+
+input {
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    width: 630px;     
+    font-family: sans-serif;
+    font-size: 15.7px;
+    color: rgb(191, 184, 196); 
+    padding-left: 15px;   
+    padding-top: 30px;   
+}
+
+#catgoe {
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    width: 50px;    
+    padding-top: 25px;
+}
+
+.catgo2 {
+    border: 2px solid none;    
+    width: 600px; 
+    height: 500px;   
+    font-family: sans-serif; 
+    padding-top: 60px; 
+    padding-left: 160px; 
+}
+
+/* section four */
+
+
+.datgo {
+    border: 2px solid none;    
+    width: 1600px; 
+    height: 2150px;
+    background-color: rgb(255, 255, 255);    
+}
+
+.datgo1 {
+    border: 2px solid none;    
+    width: 1365px; 
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+    padding-left: 90px;       
+}
+
+#datgo1a {
+    border: 2px solid none;    
+    width: 250px;
+    height: 100px;
+    font-size: 20px;
+    padding-top: 48px; 
+    color: rgb(56, 74, 98);   
+}
+
+#datgo1b {
+    border: 2px solid none;    
+    width: 170px;
+    height: 100px;
+    font-size: 19px;
+    padding-top: 58px;        
+}
+
+#datgo1c {
+    color: rgb(215, 128, 130);
+}
+
+.datgo2 {
+    border: 2px solid none; 
+    background-color: rgb(255, 255, 255);   
+    width:  1400px; 
+    height: 1460px;
+    padding-left: 90px;
+    padding-top: 10px;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 30px;
+}
+
+#datgo2a {
+    border: 2px solid rgb(193, 193, 219);    
+    width: 270px;
+    height: 430px;
+    border-radius: 3px;
+}
+
+#datgo2b {
+    border: 2px solid none;    
+    width: 270px;
+    height: 211px;
+    overflow-y: hidden;
+}
+
+#datgo2c {
+    border: 2px solid none;    
+    width: 270px;
+    height: 215px;
+    font-family: sans-serif;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+#seta {
+    font-size: 18px;
+}
+
+#setb {
+    font-size: 13px;
+}
+
+#setc {
+    font-size: 22px;
+}
+
+#setd {
+    font-size: 14px;
+}
+
+button {
+    border: 2px solid rgb(215, 127, 129);
+    width: 210px;
+    height: 40px;
+    border-radius: 4px;
+    font-family: sans-serif;
+    font-size: 15px;
+    background-color: rgb(215, 127, 129);
+    color: rgb(255, 255, 255);  
+}
+
+.Zdatgo2 {
+    border: 2px solid none; 
+    background-color: rgb(255, 255, 255);    
+    width:  1400px; 
+    height: 480px;
+    padding-left: 90px;
+    padding-top: 10px;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 30px;
+}
+
+ 
+/* section five */
+
+.sec {
+    border: 2px solid none;
+    background-color: rgb(255, 255, 255);
+    width: 1450px;
+    height: 410px;
+    padding-top: 50px;
+    padding-left: 85px;
+}
+
+.secgo {
+    border: 2px solid none;
+    background-color: rgb(255, 255, 255);
+    width: 1250px;
+    height: 300px;
+}
+
+#secgo1 {
+font-size: 27px;
+font-family: sans-serif;  
+color: rgb(56, 74, 98)
+}
+
+#secgo1a {
+    font-size: 22px;
+    font-family: sans-serif;
+    line-height: 30px;      
+    color: rgb(56, 74, 98);
+}
+/* section six */
+
+.hig{
+    border: 2px solid none;
+    background-color: rgb(237, 246, 253);
+    width: 1450px;
+    height: 371px;
+    padding-top: 57px;
+    padding-left: 85px;
+}
+
+.hig1 {
+    border: 2px solid none;
+    background-color: rgb(237, 246, 253);
+    width: 700px;
+    height: 55px;
+}
+
+#hig1a {
+    font-size: 27px;
+    font-family: sans-serif;  
+    color: rgb(56, 74, 98)
+}
+
+.hig2 {
+    border: 2px solid none;
+    background-color: rgb(237, 246, 253);
+    width: 1200px;
+    height: 255px;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 28px;
+}
+
+#hig2a {
+    border: 2px solid none;
+    background-color: rgb(255, 255, 255);
+    width: 367px;
+    height: 190px;
+    display: flex;
+    flex-flow: row wrap;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+#hig2b {
+    border: 2px solid none;
+    background-color: rgb(255, 255, 255);
+    width: 50px;
+    height: 50px;
+}
+
+#hig2c {
+    border: 2px solid none;
+    background-color: rgb(255, 255, 255);
+    width: 257px;
+    height: 150px;
+     font-size: 15px;
+     color: rgb(56, 74, 98);
+    font-family: sans-serif;
+    padding-top: 12px;
+}
+
+#atten {
+    color: rgb(12, 161, 242);
+}
+
+#hig2d {
+    line-height: 20px
+}
+
+/* section seven */
+
+.jeg {
+    border: 2px solid none;
+    background-color: rgb(255, 255, 255);
+    width: 1450px;
+    height: 385px;
+    padding-left: 85px;
+    padding-top: 110px;
+}
+
+.jeg1 {
+    border: 2px solid none;
+    background-color: rgb(255, 255, 255);
+    width: 700px;
+    height: 40px;    
+}
+
+#jeg1a {
+    font-size: 27px;
+    font-family: sans-serif;  
+    color: rgb(56, 74, 98)
+}
+
+.jeg2 {
+    border: 2px solid none;
+    background-color: rgb(255, 255, 255);
+    width: 1200px;
+    height: 230px;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 28px;
+}
+
+#jeg2a {
+    border: 2px solid none;
+    background-color: rgb(255, 255, 255);
+    width: 367px;
+    height: 190px;
+    display: flex;
+    flex-flow: row wrap;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+#jeg2b {
+    border: 2px solid none;
+    background-color: rgb(255, 255, 255);
+    width: 70px;
+    height: 70px;
+}
+
+#jeg2c {
+    border: 2px solid none;
+    background-color: rgb(255, 255, 255);
+    width: 257px;
+    height: 150px;
+    font-size: 15px;
+    color: rgb(56, 74, 98);
+    font-family: sans-serif;
+    padding-left: 17px;
+}
+
+#jeg2d {
+    line-height: 25px
+}
+
+/* section eight */
+
+.fet {
+    border: 2px solid none;
+    background-color: rgb(247, 246, 244);
+    width: 1450px;
+    height: 310px;
+    padding-top: 87px;
+    padding-left: 85px;
+}
+
+.fet1 {
+    border: 2px solid none;
+    background-color: rgb(247, 246, 244);
+    width: 700px;
+    height: 55px;        
+}
+    
+#fet1a {
+    font-size: 27px;
+    font-family: sans-serif;  
+    color: rgb(56, 74, 98);
+}
+
+.fet2 {
+    border: 2px solid none;
+    background-color: rgb(247, 246, 244);
+    width: 1200px;
+    height: 200px;
+    display: flex;  
+    flex-flow: row wrap;
+    gap: 60px;    
+}
+
+#fet2a {
+    border: 2px solid none;
+    background-color: rgb(247, 246, 244);
+    font-family: sans-serif;
+    font-size: 16.5px;
+    width: 189px;
+    height: 90px;
+    line-height: 30px;
+}
+
+#fet2b {
+    text-decoration: underline;
+}
+ /* section nine */
+
+.vet{
+    border: 2px solid none;
+    background-color: rgb(56, 74, 98);
+    width: 1400px;
+    height: 415px;
+    display: flex;  
+    flex-flow: row wrap;
+    gap: 60px; 
+    padding-top: 65px;
+    padding-left: 95px;   
+}
+
+.vet1 {
+    border: 2px solid none;
+    background-color: rgb(56, 74, 98);
+    font-family: sans-serif;
+    font-size: 16.5px;
+    width: 220px;
+    height: 290px;
+    color: white;
+    
+}
+
+#vet1a {
+    line-height: 27px;
+}
+
+#vet1b {
+    line-height: 44px;
+}
+
+.zoo {
+    border: 2px solid none;
+    background-color: rgb(203, 202, 200);
+    width: 1400px;
+    height: 90px;
+    color: rgb(56, 74, 98);
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 35px;
+}
